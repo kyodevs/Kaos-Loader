@@ -6,3 +6,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/kyodevs/Kaos/project/
 
 elseif game.PlaceId== 11545598432 then 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/kyodevs/Kaos/project/Kaos%20Internal"))()
+
+end
