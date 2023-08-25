@@ -1,0 +1,8 @@
+if game.PlaceId== 9447079542 then 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kyodevs/Kaos-Hub/main/SCRZtJQRZyklCtGdWUGpYbLrNBrQRr"))()
+
+elseif game.PlaceId== 2788229376 then 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kyodevs/Kaos/project/dh"))()
+
+elseif game.PlaceId== 11545598432 then 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kyodevs/Kaos/project/Kaos%20Internal"))()
